@@ -25,7 +25,7 @@ $(function(){
 <jsp:include page="/menu/top.jsp" flush='false' />
 <!-- ----------------------------------------- -->
  
-<DIV class='title'>Github 실습3</DIV>
+<DIV class='title'>Github 실습4</DIV>
  
  
 <!-- -------------------------------------------- -->
